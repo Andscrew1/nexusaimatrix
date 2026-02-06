@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "nexusaimatrix",
+	"upload_source_maps": true,
+	"observability": {
+		"enabled": true
+	},
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_name": "NexusAIMatrix",
+			"database_id": "6a33ecd8-ec20-49b8-b214-e6903fb7b2c9"
+		}
+	]
+}
